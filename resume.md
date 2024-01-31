@@ -1,6 +1,6 @@
 # *SBRUERMAPS* 
 
-<center> <img src= "/selfie2.avif" width='200'> </center>
+<center> <img src= "/real.jpg" width='200'> </center>
 
 ###### **Urban Planning, Geography, Musician, Student** 
 ###### Bruersh@appstate.edu
